@@ -7,5 +7,6 @@ int main() {
 	fstream file;
 	file.open("text.txt",ios::in);
 	file.close();
+	
 	return 0;
 }
